@@ -1,0 +1,38 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 13/11/2019 06:06
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/flateicon/Flaticon.eot");
+  src: url("../font/flateicon/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../font/flateicon/Flaticon.woff2") format("woff2"),
+       url("../font/flateicon/Flaticon.woff") format("woff"),
+       url("../font/flateicon/Flaticon.ttf") format("truetype"),
+       url("../font/flateicon/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../font/flateicon/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 18px;
+        font-style: normal;
+        margin-left: 0;
+    padding-right:  5px;
+    font-weight: 500;
+}
+
+.flaticon-sell:before { content: "\f100"; }
+.flaticon-pay:before { content: "\f101"; }
+.flaticon-settings:before { content: "\f102"; }
+.flaticon-promotion:before { content: "\f103"; }

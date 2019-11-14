@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383.678" height="58.973" viewBox="0 0 383.678 58.973">
+  <g id="Group_33" data-name="Group 33" transform="translate(-231.027 -2114.34)" opacity="0.5">
+    <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="4" cy="0.5" rx="4" ry="0.5" transform="translate(231.027 2137)" fill="#ff48c8"/>
+    <g id="home-52" transform="translate(553 2110)">
+      <path id="Path_33" data-name="Path 33" d="M10,23.966V60H26V45H38V60H54V23.966" fill="none" stroke="#ff48c8" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_34" data-name="Path 34" d="M12,22.241V8h6v9.069" fill="none" stroke="#ff48c8" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="12" height="10" transform="translate(26.001 26)" fill="none" stroke="#ff48c8" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_35" data-name="Path 35" d="M61,30,32,5,3,30" fill="none" stroke="#ff48c8" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <path id="Path_36" data-name="Path 36" d="M1458.027,2137.149v9.521h32.825v19.882h80.069V2157h19.825v9.549H1750" transform="translate(-1223)" fill="none" stroke="#ff48c8" stroke-width="1"/>
+    <g id="flag-points-32" transform="translate(232 2114)">
+      <path id="Path_37" data-name="Path 37" d="M3,3H21L18,9l3,6H3" fill="none" stroke="#ff48c8" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y2="22" transform="translate(3 1)" fill="none" stroke="#ff48c8" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="ic_my_location_48px" transform="translate(525 2157.89)">
+      <path id="Path_38" data-name="Path 38" d="M8.711,6.271a2.441,2.441,0,1,0,2.441,2.441A2.44,2.44,0,0,0,8.711,6.271ZM14.166,8.1A5.488,5.488,0,0,0,9.322,3.257V2H8.1V3.257A5.488,5.488,0,0,0,3.257,8.1H2v1.22H3.257A5.488,5.488,0,0,0,8.1,14.166v1.257h1.22V14.166a5.488,5.488,0,0,0,4.844-4.844h1.257V8.1H14.166ZM8.711,12.982a4.271,4.271,0,1,1,4.271-4.271A4.272,4.272,0,0,1,8.711,12.982Z" fill="#ff48c8"/>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(-33)">
+      <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(414 2115)" fill="none" stroke="#ff48c8" stroke-width="1">
+        <rect width="30.227" height="46.993" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29.227" height="45.993" fill="none"/>
+      </g>
+      <g id="Group_34" data-name="Group 34" transform="translate(424.716 2124.508)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="3.633" height="3.633" fill="#ff48c8"/>
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="3.633" height="3.633" transform="translate(0 8.174)" fill="#ff48c8"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="3.633" height="3.633" transform="translate(6.358)" fill="#ff48c8"/>
+        <rect id="Rectangle_34" data-name="Rectangle 34" width="3.633" height="3.633" transform="translate(6.358 8.174)" fill="#ff48c8"/>
+      </g>
+      <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(419 2147.993)" fill="none" stroke="#ff48c8" stroke-width="1">
+        <rect width="20.227" height="14" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19.227" height="13" fill="none"/>
+      </g>
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="6" height="10" transform="translate(426.114 2151.993)" fill="#ff48c8" opacity="0.44"/>
+    </g>
+  </g>
+</svg>
