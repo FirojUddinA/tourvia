@@ -1,7 +1,7 @@
 
 
 $(document).ready(function () {
-    new WOW().init();
+    // new WOW().init();
     const header = document.querySelector('#header_area');
 
     window.addEventListener('scroll', () => {
